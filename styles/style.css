@@ -288,6 +288,10 @@ footer .footer-icons i {
         width: 50%;
     }
 
+    .blogs .hidden {
+        display: none;
+    }
+
 
     .tablet-btn .tablet-view {
         display: block;
